@@ -5,7 +5,7 @@ Introducing a novice front-end developer!<br>My name is Vladislav Starostin, and
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vladik.st/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladislav-starostin-0001a7166/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vladik.st/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladislav-starostin-0001a7166/) [![Telegram Badge](https://img.shields.io/badge/-Vladikst-blue?style=flat&logo=Telegram&logoColor=white)]((https://t.me/vladikst)) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](starostinvladislav18@gmail.com)
 
 
 # 💻 Tech Stack:
