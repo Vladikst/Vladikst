@@ -23,6 +23,3 @@ Introducing a novice front-end developer!<br>My name is Vladislav Starostin, and
     </td>
   </tr>
 </table>
-
-
-<img width='100%' src='./Img/code.gif'>
