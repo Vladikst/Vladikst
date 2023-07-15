@@ -16,5 +16,16 @@ Introducing a novice front-end developer!<br>My name is Vladislav Starostin, and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vladikst&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladikst&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Vladikst&theme=react&hide" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vladikst&theme=react&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-<img src='./Img/code.gif'>
+
+<img width='600px' height='400px' src='./Img/code.gif'>
