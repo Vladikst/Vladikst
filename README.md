@@ -25,4 +25,4 @@ Introducing a novice front-end developer!<br>My name is Vladislav Starostin, and
 </table>
 
 
-<img width='600px' height='400px' src='./Img/code.gif'>
+<img src='./Img/code.gif'>
