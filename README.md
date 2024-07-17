@@ -1,7 +1,7 @@
 <img src='./Img/Starostin Vladislav.png'>
 
 # 💫 About Me:
-Introducing a novice front-end developer!<br>My name is Vladislav Starostin, and I'm 26 years old.<br>I'm studying JavaScript, React, HTML, and CSS, and actively seeking employment opportunities.<br>I'm ready to take on any challenges and apply my skills in practice.<br>I strive for quality and I'm eager to learn from experienced professionals.<br>I would be delighted to discuss collaboration opportunities!
+Introducing front-end developer!<br>My name is Vladislav Starostin, and I'm 27 years old.<br>I'm studying JavaScript, React, HTML, and CSS, and actively seeking employment opportunities.<br>I'm ready to take on any challenges and apply my skills in practice.<br>I strive for quality and I'm eager to learn from experienced professionals.<br>I would be delighted to discuss collaboration opportunities!
 
 
 ## 🌐 Socials:
